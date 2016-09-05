@@ -20,5 +20,5 @@ git clone https://github.com/Shougo/vimproc.vim.git
 cd vimproc.vim\lib
 curl -LSso vimproc_win32.dll https://github.com/Shougo/vimproc.vim/releases/download/ver.9.2/vimproc_win32.dll
 cd %HOMEPATH%\vimfiles\syntax
-curl -LSso haskell.vim https://github.com/sdiehl/haskell-vim-proto/blob/master/vim/syntax/haskell.vim
-curl -LSso cabal.vim https://github.com/sdiehl/haskell-vim-proto/blob/master/vim/syntax/cabal.vim
+curl -LSso haskell.vim https://raw.githubusercontent.com/sdiehl/haskell-vim-proto/master/vim/syntax/haskell.vim
+curl -LSso cabal.vim https://raw.githubusercontent.com/sdiehl/haskell-vim-proto/master/vim/syntax/cabal.vim
